@@ -1,7 +1,7 @@
 # Menu
 print('Test 3')
 print('1. Add')
-print('2 Substract')
+print('2. Substract')
 print('3. Multiply')
 print('4. Devide')
 
